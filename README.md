@@ -1,11 +1,11 @@
 機器學習百日馬拉松
-==============
+===================
 
 ### 機器學習概論
   * [DAY 001](https://github.com/CharlesChou03/ML100Days/blob/master/homework/Day_001_HW.ipynb) 資料介紹與評估資料
-  * [DAY 002](https://github.com/CharlesChou03/ML100Days/blob/master/homework/Day_001_HW.ipynb) 機器學習概論
-  * [DAY 003](https://github.com/CharlesChou03/ML100Days/blob/master/homework/Day_001_HW.ipynb) 機器學習-流程與步驟
-  * [DAY 004](https://github.com/CharlesChou03/ML100Days/blob/master/homework/Day_001_HW.ipynb) EDA/讀取資料與分析流程
+  * [DAY 002](https://github.com/CharlesChou03/ML100Days/blob/master/homework/Day_002_HW.ipynb) 機器學習概論
+  * [DAY 003](https://github.com/CharlesChou03/ML100Days/blob/master/homework/Day_003_HW.ipynb) 機器學習-流程與步驟
+  * [DAY 004](https://github.com/CharlesChou03/ML100Days/blob/master/homework/Day_004_HW.ipynb) EDA/讀取資料與分析流程
   
 ### 資料清理數據前處理
 ### 資料科學特徵工程技術
